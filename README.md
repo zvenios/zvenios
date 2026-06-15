@@ -4,6 +4,7 @@
 <div align="center">
   <code><img width="30%" src="icons/rust.png" alt="Rust" title="Rust"/></code>
   <code><img width="30%" src="icons/arch_linux.png" alt="Arch Linux" title="Arch Linux"/></code>
+  <br>
   <code><img width="30%" src="icons/c.png" alt="C" title="C"/></code>
   <code><img width="30%" src="icons/c++.png" alt="C++" title="C++"/></code>
 </div>
